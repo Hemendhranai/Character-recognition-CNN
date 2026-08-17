@@ -1,0 +1,8 @@
+Epoch 1/5
+844/844 ... accuracy: 0.91 - loss: 0.30
+Epoch 2/5
+844/844 ... accuracy: 0.97 - loss: 0.09
+...
+Test Accuracy: 0.98
+Predicted character: 7
+Actual character: 7
